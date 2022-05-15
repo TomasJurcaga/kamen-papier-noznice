@@ -1,0 +1,3 @@
+﻿  kamen.,papier,noznice.cpp
+D:\kamen.,papier,noznice\kamen.,papier,noznice\kamen.,papier,noznice.cpp(42,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  kamen.,papier,noznice.vcxproj -> D:\kamen.,papier,noznice\Debug\kamen.,papier,noznice.exe
